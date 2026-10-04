@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-lofi",
+  "name": "nerfsaksham-lofi",
   "description": "A lofi soundtrack that follows the session: calm, focus, flow, plus cues for passing and failing tests. Original music.",
   "owner": {
     "name": "Saksham Arora",

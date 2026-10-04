@@ -25,7 +25,7 @@ Claude Code **2.1.287 or newer** runs mods out of the box. On 2.1.273 to 2.1.286
 
 ```bash
 claude plugin marketplace add saksham10arora-dotcom/claude-lofi
-claude plugin install lofi@claude-lofi
+claude plugin install lofi@nerfsaksham-lofi
 ```
 
 Every option has a default, so the installer's "userConfig options not yet set" note is safe to ignore.
